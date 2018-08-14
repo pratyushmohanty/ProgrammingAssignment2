@@ -4,6 +4,10 @@
 ## 2. get the value of the matrix
 ## 3. set the value of the inverse of the matrix
 ## 4. get the value of the inverse of the matrix
+## 
+## The function 'cacheSolve' returns the inverse from cache
+## if available. Else, stores the value to the cache and 
+## reuses it next time.
 
 ## Example:
 
